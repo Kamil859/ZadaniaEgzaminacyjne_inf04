@@ -1,1 +1,1 @@
-\# Zadania Egzaminacyjne INF04
+Zadania Egzaminacyjne INF04 Python
