@@ -1,1 +1,1 @@
-# ZadaniaEgzaminacyjne_inf04
+\# Zadania Egzaminacyjne INF04
